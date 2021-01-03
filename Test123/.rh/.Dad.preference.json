@@ -1,5 +1,9 @@
 {
   "recent-files::internal:document": [{
+    "path": "C:/Testing123/Test123/contents/Second_Topic.htm",
+    "pinned": false,
+    "time": "Jan 3, 6:50 PM"
+  }, {
     "path": "C:/Testing123/Test123/contents/topic_5.htm",
     "pinned": false,
     "time": "Jan 3, 3:07 PM"
@@ -20,5 +24,5 @@
     "pinned": false,
     "time": "Jan 3, 1:22 AM"
   }],
-  "file-modified": "2021-01-03T18:37:32-05:00"
+  "file-modified": "2021-01-03T18:50:06-05:00"
 }
